@@ -4,10 +4,10 @@ Este repositório contém o desenvolvimento do primeiro trabalho prático da dis
 ##  Identificação e Grupo
 * **Título do Trabalho:** Análise Exploratória de Dados de Saúde (Diagnostico para Diabetes)
 * **Integrantes:**
-    * **Cor 1**: Ian Araújo
-    * **Cor 2**: Pedro Brum
-    * **Cor 3**: Lucas Pereira
-    * **Cor 4**: Joao Marcos
+    * **Roxo**: Ian Araújo
+    * **Azul**: Pedro Brum
+    * **Verde**: Lucas Pereira
+    * **Vermelho**: Joao Marcos
     
 
 ##  Objetivo do Estudo
